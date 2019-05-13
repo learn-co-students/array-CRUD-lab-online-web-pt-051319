@@ -15,7 +15,7 @@ In this lab, you will create arrays, add data to arrays, remove data from arrays
 
 ## Instructions
 
-In this lab, we will be coding the solutions for each of the above tasks in the body of a method. In `lib/array_crud.rb` we've defined a series of methods for you, each of which is responsible for one of the tasks above. Your job is to write the code in the body of each method to get the test passing.
+In this lab, we will be coding the solutions for each of the above tasks in the body of a method. In `lib/array_crud.rb` we've defined a series of methods for you, each of which is responsible for one of the tasks above. Your job is to write the code in the body of each method to get the test passing.989510  Mskc
 
 Let's go through the first challenge together.
 
